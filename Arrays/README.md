@@ -2,4 +2,4 @@
 
 ## Arrays
 - Two Sum
-- Best Time to Buy and Sell Stock
+- Single Number
