@@ -57,3 +57,33 @@ Learning:
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+## Find Numbers with Even Number of Digits
+
+Learning:
+- Learned digit counting.
+- Used /10 to find the number of digits.
+- Checked for even digit count.
+
+Time Complexity: O(n × d)
+Space Complexity: O(1)
+
+## Maximum Count of Positive and Negative Integers
+
+Learning:
+- Counted positive and negative numbers.
+- Ignored zeros.
+- Returned the maximum count.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+## Number of Employees Who Met the Target
+
+Learning:
+- Counted employees meeting the target.
+- Used conditional checking.
+- Traversed the array once.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
