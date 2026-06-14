@@ -17,3 +17,13 @@ Learning:
 
 Time Complexity: O(n²)
 Space Complexity: O(1)
+
+## Contains Duplicate
+
+Learning:
+- Learned HashSet usage.
+- Used contains() to find duplicates.
+- HashSet stores unique values.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
