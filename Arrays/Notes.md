@@ -27,3 +27,33 @@ Learning:
 
 Time Complexity: O(n)
 Space Complexity: O(n)
+
+## Move Zeroes
+
+Learning:
+- Learned two-pointer technique.
+- Moved non-zero elements first.
+- Filled remaining positions with zeros.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+## Richest Customer Wealth
+
+Learning:
+- Learned 2D array traversal.
+- Calculated row sums.
+- Found the maximum sum.
+
+Time Complexity: O(m × n)
+Space Complexity: O(1)
+
+## Running Sum of 1D Array
+
+Learning:
+- Learned cumulative sum concept.
+- Updated sum while traversing.
+- Stored results in a new array.
+
+Time Complexity: O(n)
+Space Complexity: O(n)

@@ -3,3 +3,4 @@
 ## Arrays
 - Two Sum
 - Single Number
+- ContainsDuplicate
